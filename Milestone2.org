@@ -1,0 +1,52 @@
+#+TITLE:Milestone 2
+#+AUTHOR:Boberts
+#+DESCRIPTION:Milestone 2 Functions
+#+DATE:<2022-11-03 Thu>
+
+* Milestone 2
+
+** Helper Functions
+   | FUNCTION_NAME | DESC |
+   | parsePath     |      |
+
+** File Validation Functions
+Gaby
+  |---------------+------------+------|
+  | FUNCTION_NAME | DIFFICULTY | DESC |
+  |---------------+------------+------|
+  | fs_isFile     |          2 |      |
+  |---------------+------------+------|
+  | fs_isDir      |           2|      |
+  |---------------+------------+------|
+
+
+** Current Working Directory Functions
+  |-----------+---+---|
+  | fs_setcwd | 3 |   |
+  |-----------+---+---|
+  | fs_getcwd | 3 |   |
+  |-----------+---+---|
+Leo
+** Directory CRUD Functions
+  |---------------+------|
+  | fs_mkdir      |   3  |
+  |---------------+------|
+  | fs_opendir    |   3  |
+  |---------------+------|
+  | fs_readdir    |   3  |
+  |---------------+------|
+  | fs_closedir   |   3  |
+  |---------------+------|
+  
+  Maliah
+  |-----------+---|
+  | fs_delete | 3 |
+  |-----------+---|
+  | fs_rmdir  | 3 |
+  |-----------+---|
+
+  |---------------+------|
+  | fs_stat       |   4  |
+  |---------------+------|
+  
+
